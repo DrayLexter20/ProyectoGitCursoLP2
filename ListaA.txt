@@ -3,17 +3,7 @@ Lista A:
 2		2015067485		Anivia		A
 3		2017051245		Annie		F
 4		2019057484		Brand		A
-5		2014051477		Cassiopeia 	A
-6		2017054788		Elise 		A
-7		2014077845		Fiddlesticks 	A
-8		2017062545		Gragas 		A
-9		2017080977		Heimerdinger 	F
-10		2017054878		Karma		A
-11		2017058474		Karthus 	A
-12		2017047172		Kennen 		A
-13		2019061718		Lissandra 	A
-14		2017068898		Lux 		A
-15		2017091425		Malzahar	A
+
 16		2017047414		Morgana		A
 17		2016052222		Orianna		A
 18		2017089495		Ryze 		A
@@ -23,6 +13,5 @@ Lista A:
 22		2017095891		Veigar 		A
 23		2017041414		Viktor 		A
 24		2017036541		Vladimir 	A
-25		2017057845		Xerath 		A
-26		2017043231		Ziggs		A
+
 27		2017098142		Zyra 		F
