@@ -1,2 +1,3 @@
-Este es mi block de notas
+
 Laboratorio Git
+curso Programacion II
